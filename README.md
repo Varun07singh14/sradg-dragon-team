@@ -39,14 +39,15 @@ Describe the major technical or non-technical challenges your team encountered.
 1. Clone the repository  
    ```sh
    git clone https://github.com/your-repo.git
+   cd code/FastAPIProject
    ```
 2. Install dependencies  
    ```sh
-   npm install  # or pip install -r requirements.txt (for Python)
+   pip install -r requirements.txt  # or pip install -r requirements.txt (for Python)
    ```
 3. Run the project  
    ```sh
-   npm start  # or python app.py
+   python3 main.py  # or python app.py
    ```
 
 ## 🏗️ Tech Stack
