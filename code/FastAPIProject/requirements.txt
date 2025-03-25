@@ -9,3 +9,6 @@ fastapi~=0.115.12
 keras~=3.9.0
 numpy~=2.1.3
 uvicorn
+google-generativeai
+secure-smtplib
+jira
